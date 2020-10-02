@@ -18,15 +18,15 @@ Bits está desponible en la tienda de VS Code. Busca **Bits**, instala y listo!
 
 #### JavaScript
 
-<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/master/screenshots/js.png" alt="Bits Theme for JavaScript" />
+<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/dev/screenshots/js.png" alt="Bits Theme for JavaScript" />
 
 #### Flutter(Dart)
 
-<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/master/screenshots/flutter.png" alt="Bits Theme for Futter" />
+<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/dev/screenshots/flutter.png" alt="Bits Theme for Futter" />
 
 #### PHP
 
-<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/master/screenshots/php.png" alt="Bits Theme for PHP" />
+<img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/dev/screenshots/php.png" alt="Bits Theme for PHP" />
 
 
 #### Fixes & Enhancements
