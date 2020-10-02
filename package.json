@@ -1,0 +1,26 @@
+{
+    "name": "bits",
+    "displayName": "Bits",
+    "description": "Cool and simple VS Code theme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#0c0a20",
+		"theme": "dark"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bits ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bits -color-theme.json"
+            }
+        ]
+    }
+}
