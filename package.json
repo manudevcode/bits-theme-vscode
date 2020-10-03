@@ -1,11 +1,13 @@
 {
     "name": "bits",
+    "publisher": "ManuCodes",
     "displayName": "Bits",
     "description": "Cool and simple VS Code theme ",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.49.0"
     },
+    "repository": "https://github.com/manudevcode/bits-theme-vscode",
     "icon": "images/icon.png",
 	"galleryBanner": {
 		"color": "#0c0a20",
