@@ -31,4 +31,4 @@ Bits está desponible en la tienda de VS Code. Busca **Bits**, instala y listo!
 
 #### Fixes & Enhancements
 
-Bits es un tema recién nacido aún falta mucho que agregar, como el soporte para otros lenguajes aún no probado, si tienes algún problema y quires solocitar soporte para un lenguaje atenderé lo antes posible.
+Bits es un tema recién nacido aún falta mucho que agregar, como el soporte para otros lenguajes aún no probado, si tienes algún problema y quieres solicitar soporte para un lenguaje atenderé lo antes posible.
