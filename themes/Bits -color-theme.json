@@ -644,13 +644,16 @@
 		
 		// Peek View
 		"peekView.border": "#42C6FF",
-		"peekViewEditor.background": "#110d26",
-		"peekViewEditor.matchHighlightBackground": "#161130",
-		"peekViewEditor.matchHighlightBorder": "#161130",
-		"peekViewResult.background": "#0d0b22",
+    "peekViewEditor.background": "#0c0724",
+		"peekViewEditor.matchHighlightBackground": "#ff2e97",
+		"peekViewEditor.matchHighlightBorder": "#ff2e97",
+		"peekViewResult.background": "#0c0724",
 		"peekViewResult.selectionBackground": "#42C6FF",
-		"peekViewTitle.background": "#0d0b22",
+		"peekViewTitle.background": "#0c0724",
 		"peekViewTitleDescription.foreground": "#7984D1",
+
+    "minimap.selectionHighlight": "#3398c43f",
+    "minimap.findMatchHighlight": "#42C6FF86",
 		
 		// Title Bar Colors
 		"titleBar.activeBackground": "#090819",
@@ -661,6 +664,7 @@
 		"gitDecoration.untrackedResourceForeground":"#42c6ff",
 		"gitDecoration.ignoredResourceForeground":"#7984D1",
 		"gitDecoration.conflictingResourceForeground":"#df85ff",
+
 		// Integrated Terminal
 		"terminal.background":"#0e072d",
 		"terminal.foreground":"#e4eeff",
