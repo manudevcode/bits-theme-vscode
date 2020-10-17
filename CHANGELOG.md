@@ -30,3 +30,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [PugJS support](https://github.com/manudevcode/bits-theme-vscode/issues/2)
 - CSS and SCSS [bugs fixed](https://github.com/manudevcode/bits-theme-vscode/issues/1)
 - Minimal fixes
+
+## [0.0.6]
+### Changed
+- Minimap color fixes
+- Peek view color fixes
