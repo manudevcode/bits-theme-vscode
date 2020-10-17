@@ -35,8 +35,8 @@
 		{     
 			"name": "Object property",     
 			"scope": [
-				"meta.object-literal.key.js",
-				"meta.object.member.js"
+				"meta.object-literal.key",
+				"meta.object.member"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -643,12 +643,12 @@
 		"panelTitle.inactiveForeground": "#7984D1",
 		
 		// Peek View
-		"peekView.border": "#ff9b50",
+		"peekView.border": "#42C6FF",
 		"peekViewEditor.background": "#110d26",
 		"peekViewEditor.matchHighlightBackground": "#161130",
 		"peekViewEditor.matchHighlightBorder": "#161130",
 		"peekViewResult.background": "#0d0b22",
-		"peekViewResult.selectionBackground": "#ff9b50",
+		"peekViewResult.selectionBackground": "#42C6FF",
 		"peekViewTitle.background": "#0d0b22",
 		"peekViewTitleDescription.foreground": "#7984D1",
 		
