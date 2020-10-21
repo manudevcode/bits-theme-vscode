@@ -1,20 +1,31 @@
-# Bits Theme for VS Code
+<div style="text-align: center">
+  <h1>Bits Theme for VS Code</h1>
+  <img src="https://raw.githubusercontent.com/manudevcode/bits-theme-vscode/dev/images/icon.png" alt="Bits Theme for JavaScript" />
+  
+  Bits is a simple but useful theme created by a beginner in creating themes and extensions for VS Code.
 
-Bits es un tema simple pero útil creado por un principiante en la creación de temas y extenciones para VS Code.
+  This theme will help you see your code better by color gamut and contrast.
+</div>
+<br/>
+<p align="center">
+  <img alt="Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/ManuCodes.Bits.svg?style=for-the-badge&color=df85ff&labelColor=384357"/>
+  <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/ManuCodes.Bits.svg?style=for-the-badge&color=df85ff&labelColor=384357">
+  <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-short/ManuCodes.Bits.svg?style=for-the-badge&color=df85ff&labelColor=384357">
+</p>
+<br/>
 
-Este tema te ayudará a ver mejor tu código por la gama de colores y el contraste.
+The official page of the theme is under construction if you want to help in the creation of the theme you can support this project in the sponsors button or [here](https://github.com/sponsors/manudevcode).
 
-La página oficial del tema está en construcción si quieres apoyar en la creación del tema puedes apoyar este proyecto en el botón de sponsors [https://bitstheme.com](https://bitstheme.com)
-
-Creado por [Manu Codes](https://github.com/manudevcode)
+Created by [Manu Codes](https://github.com/manudevcode)
 
 ---
 
 ## Installation
 
-Bits está desponible en la tienda de VS Code. Busca **Bits**, instala y listo!
+Bits is available in the VS Code marketplace. Search **Bits**, install and go!
 
 ## Screenshots
+<br/>
 
 #### JavaScript
 
@@ -31,4 +42,4 @@ Bits está desponible en la tienda de VS Code. Busca **Bits**, instala y listo!
 
 #### Fixes & Enhancements
 
-Bits es un tema recién nacido aún falta mucho que agregar, como el soporte para otros lenguajes aún no probado, si tienes algún problema y quieres solicitar soporte para un lenguaje atenderé lo antes posible.
+Bits is a young theme and there is still much to add, such as support for other languages ​​not yet tested, if you have a problem and want to request support for a language I will attend as soon as possible.
