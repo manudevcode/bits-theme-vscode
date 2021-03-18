@@ -143,12 +143,25 @@
 			}
 		},
 		{
+			"scope": [
+				"meta.entity.name.function.tsx",
+				"meta.entity.name.function.js",
+				"meta.entity.name.function.ts",
+				"meta.definition.function.tsx"
+			],
+			"settings": {
+				"foreground": "#42c6ff",
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "Tag attribute",
 			"scope": [
 				"entity.other.attribute-name",
 				"source.dart",
 				"variable.parameter.js",
 				"meta.jsx.children.js.jsx",
+				"meta.jsx.children.tsx",
 				"constant.other.color.rgb-value.hex.css",
 			],
 			"settings": {
@@ -347,7 +360,7 @@
 			],
 			"settings": {
 				"foreground": "#42c6ff",
-				"fontStyle": "bold italic"
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -543,7 +556,7 @@
 		"progressBar.background":"#84FFFF",
 
 		// Editor
-		"editor.background": "#0A0520",
+		"editor.background": "#100b29",
 		"editor.foreground": "#f2f3f7",
 		"editorCursor.foreground": "#ff2e97",
 		"editor.selectionHighlightBackground": "#484f7d8e",
