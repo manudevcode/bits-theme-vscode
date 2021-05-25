@@ -415,8 +415,7 @@
 			"name": "(){}[]",
 			"scope": [
 				"punctuation.definition.block",
-				"meta.brace.round",
-				"meta.block",
+				"meta.brace.round",				
 				"punctuation.definition.parameters.begin",
 				"punctuation.definition.parameters.end",
 				"punctuation.definition.binding-pattern.object",
