@@ -648,7 +648,7 @@
 		"statusBar.noFolderForeground": "#7984D1",
 		
 		// Panel Colors
-		"panel.background": "#0e072d",
+		"panel.background": "#0A0520",
 		"panel.border": "#090819",
 		"panelTitle.activeBorder": "#1ea8fc",
 		"panelTitle.activeForeground": "#f2f3f7",
@@ -656,7 +656,7 @@
 		
 		// Peek View
 		"peekView.border": "#42C6FF",
-    "peekViewEditor.background": "#0c0724",
+    "peekViewEditor.background": "#11012F",
 		"peekViewEditor.matchHighlightBackground": "#ff2e97",
 		"peekViewEditor.matchHighlightBorder": "#ff2e97",
 		"peekViewResult.background": "#0c0724",
@@ -678,11 +678,12 @@
 		"gitDecoration.conflictingResourceForeground":"#df85ff",
 
 		// Integrated Terminal
-		"terminal.background":"#0e072d",
+		"terminal.background":"#0A0520",
 		"terminal.foreground":"#e4eeff",
+    "terminal.border": "#175974",
 		"terminal.ansiBlack":"#283034",
 		"terminal.ansiRed":"#ff2e97",
-		"terminal.ansiGreen":"#62a9cf",
+		"terminal.ansiGreen":"#3ada5d",
 		"terminal.ansiYellow":"#FDE74E",
 		"terminal.ansiBlue":"#42c6ff",
 		"terminal.ansiMagenta":"#ff2afc",
