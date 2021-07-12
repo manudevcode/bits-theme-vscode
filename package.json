@@ -3,7 +3,7 @@
     "publisher": "ManuCodes",
     "displayName": "Bits",
     "description": "Cool and simple VS Code theme ",
-    "version": "0.0.9",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.49.0"
     },
@@ -19,9 +19,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Bits ",
+                "label": "Bits Default",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Bits -color-theme.json"
+            },
+            {
+                "label": "Bits Darka",
+                "uiTheme": "vs-dark",
+                "path": "./themes/darka-color-theme.json"
             }
         ]
     }
